@@ -7,3 +7,4 @@ git push origin main = it means they can save file or move files into github pla
 cd <filename> = go the particulor folder
 
 to remove lock file = rm -f .git/index.lock
+ls -a = it means they can check files of particulaor file like ., .., .git
