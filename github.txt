@@ -4,7 +4,9 @@ git status = to chack status
 git add <file name> or <.> = ready to confirm and raedy to commit (<.> dot means they cand add all files in github)
 git commit -m "Message here" = they can commit the files and changed materials 
 git push origin main = it means they can save file or move files into github platform 
+
 cd <filename> = go the particulor folder
+cd .. = goto previous folder
 
 to remove lock file = rm -f .git/index.lock
 ls -a = it means they can check files of particulaor file like ., .., .git
