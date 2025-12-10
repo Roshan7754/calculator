@@ -12,3 +12,6 @@ get init to create (.get) file to understand this file is github file
 
 to remove lock file = rm -f .git/index.lock
 ls -a = it means they can check files of particulaor file like ., .., .git
+
+
+here lines to create in local folder tha upload file in github
