@@ -8,11 +8,26 @@ git push origin main = it means they can save file or move files into github pla
 cd <filename> = go the particulor folder
 cd .. = goto previous folder
 
-get init to create (.get) file to understand this file is github file
+
 
 to remove lock file = rm -f .git/index.lock
 ls -a = it means they can check files of particulaor file like ., .., .git
 
 
 here lines to create in local folder tha upload file in github
-git .add
+
+get init to create (.get) file to understand this file is github file
+
+git remote add origin(it is create self) <link>
+
+git remote -v = to verify remote
+
+git branch = it can check the branch
+
+git branch -M (new name) like (main) = to rename branch
+
+git push origin main
+git push -u origin main (-u to set origin main not write again in cmd )
+
+then type only
+git push (to unload files in origin main)
