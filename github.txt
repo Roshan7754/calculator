@@ -56,3 +56,10 @@ git merge <branch name> (to merge 2 branches)
 way 2
 
 create a PR
+
+
+to merge file can clone in vs Code
+
+type
+git pull origin main
+
