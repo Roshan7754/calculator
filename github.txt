@@ -44,3 +44,15 @@ git checkout <branch name> (to navigate)
 git checkout -b <new branch name> (to create new branch)
 
 git branch -d <branch name> (to delete branch)
+
+merging Codes
+
+way 1
+
+git diff <branch name> (to compare commit, branches, files and more)
+
+git merge <branch name> (to merge 2 branches)
+
+way 2
+
+create a PR
