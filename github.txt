@@ -15,3 +15,4 @@ ls -a = it means they can check files of particulaor file like ., .., .git
 
 
 here lines to create in local folder tha upload file in github
+git .add
