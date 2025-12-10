@@ -78,3 +78,11 @@ case 2: commited changes(for one commit)
 case 3: commited changes(for many commits)
         git reset <commit hash>
         git reset --hard <commit hash>
+
+
+git log (to check history)
+q = it used to exit any termial
+
+fork :(it is also called rough copy)
+
+they used to finding bugs or mistakes in another person projects
